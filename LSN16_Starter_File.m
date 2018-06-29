@@ -24,7 +24,8 @@ g=32.2;%[ft/s^2]
 %given v_final and t_final
 
 
-% plot function vs. mass
+% plot function vs. mass.
+
 
 
 
